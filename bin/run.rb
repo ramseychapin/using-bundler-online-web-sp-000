@@ -4,4 +4,4 @@ Sinatra
 Octokit
 Pry
 AwesomePrint
-Rspec
+rspec
